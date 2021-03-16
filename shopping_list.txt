@@ -4,6 +4,7 @@ Grapes
 Orange juice
 Coffee
 Milk
+Milo
 Mango
 Meat
 Chicken wings
