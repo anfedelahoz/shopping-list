@@ -4,4 +4,7 @@ Grapes
 Orange juice
 Coffee
 Milk
-
+Mango
+Meat
+Chicken wings
+Eggs
