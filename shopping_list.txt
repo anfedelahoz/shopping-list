@@ -2,3 +2,6 @@ Bananas
 Bread
 Grapes
 Orange juice
+Coffee
+Milk
+
