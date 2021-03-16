@@ -5,4 +5,5 @@ Orange juice
 Coffee
 Milk
 Butter
-Milo
+Eggs
+Cheese
